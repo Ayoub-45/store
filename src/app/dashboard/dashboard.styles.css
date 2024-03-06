@@ -1,0 +1,12 @@
+.dashboard {
+  margin: 20px;
+}
+
+.expenditure,
+.budget {
+  margin-bottom: 20px;
+}
+
+h3 {
+  margin-bottom: 10px;
+}
